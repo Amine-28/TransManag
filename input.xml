@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Livraisons>
+   <Livraison code="393">
+      <Nom>Chagour</Nom>
+      <Prenom>Med Amine</Prenom>
+      <Telephone>28 086 908</Telephone>
+      <Date>27/01/2019</Date>
+		<Taille>Grand</Taille>
+		<Poids>1-10Kg</Poids>
+		<Destination>Haouaria 8045</Destination>
+		<Etat>En Cours</Etat>
+   </Livraison>
+   
+   <Livraison code="452">
+      <Nom>Khlif</Nom>
+      <Prenom>Ameni</Prenom>
+      <Telephone>28 086 908</Telephone>
+      <Date>29/01/2019</Date>
+		<Taille>Moyen</Taille>
+		<Poids>10-100g</Poids>
+		<Destination>Sfax 8090</Destination>
+		<Etat>En Attendant de Packet</Etat>
+   </Livraison>
+
+   <Livraison code="124">
+      <Nom>Youssef</Nom>
+      <Prenom>Ines</Prenom>
+      <Telephone>28 086 908</Telephone>
+      <Date>28/01/2019</Date>
+		<Taille>Petit</Taille>
+		<Poids>1-10g</Poids>
+		<Destination>Sousse 8030</Destination>
+		<Etat>Paquet chez le destinataire</Etat>
+   </Livraison>
+<Livraison code="955">
+        <Nom>Chagour</Nom>
+        <Prenom>Ali</Prenom>
+        <Telephone>hhHHA</Telephone>
+        <Date>New HAHAHA</Date>
+        <Taille>1-10g</Taille>
+        <Poids>Petit</Poids>
+        <Destination>hhhhhh</Destination>
+        <Etat>En Attendant de Packet</Etat>
+    </Livraison>
+
+    <Livraison code="358">
+      <Nom>Chagour</Nom>
+      <Prenom>Med Amin</Prenom>
+      <Telephone>28 086 908</Telephone>
+      <Date>27/01/2019</Date>
+		<Taille>Grand</Taille>
+		<Poids>1-10Kg</Poids>
+		<Destination>Haouaria 8045</Destination>
+		<Etat>En Cours</Etat>
+   </Livraison>
+
+   <Livraison code="393">
+      <Nom>Chagour</Nom>
+      <Prenom>Med Amine</Prenom>
+      <Telephone>28 086 908</Telephone>
+      <Date>27/01/2019</Date>
+		<Taille>Grand</Taille>
+		<Poids>1-10Kg</Poids>
+		<Destination>Haouaria 8045</Destination>
+		<Etat>En Cours</Etat>
+   </Livraison>
+</Livraisons>
